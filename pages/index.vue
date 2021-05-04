@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        danangkonang
+        danangkonang github. io
       </h1>
       <div class="links">
         <a
