@@ -30,7 +30,7 @@
         </div>
 
         <div class=" ml-4">
-          <button @click="toggleModalDemo" class="block border-white border-2 max-w-xs w-32 focus:ring focus:ring-white focus:ring-opacity-30 focus:outline-none rounded-3xl px-1 py-2 font-bold hover:opacity-80 text-white">CV</button>
+          <button @click="toggleModalDemo" class="block border-white border-2 max-w-xs w-36 text-sm focus:ring focus:ring-white focus:ring-opacity-30 focus:outline-none rounded-3xl px-1 py-2 font-bold hover:opacity-80 text-white">DOWNLOAD CV</button>
         </div>
       </div>
 
